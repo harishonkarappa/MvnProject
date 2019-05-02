@@ -12,6 +12,7 @@ public class App
     }
 
 public boolean isPrime(int num){
+System.out.println("testing");
 	boolean val = true;
 	if(num == 1 || num == 2)
 		return false;
